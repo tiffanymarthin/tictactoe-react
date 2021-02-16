@@ -1,11 +1,11 @@
 ## Tic-Tac-Toe - First Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 Implemented Tic-Tac-Toe game with historical moves using React App, following this [First React App Tutorial](https://reactjs.org/tutorial/tutorial.html).
 
 
-Documentation below is written by the [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
+Documentation below is written by the [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
